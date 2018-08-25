@@ -1,0 +1,6 @@
+router-id 2
+input-ports 2201, 2203
+output-ports 1102-1-1, 3302-3-3
+periodic 3
+timeout 18
+garbage 12
